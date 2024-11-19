@@ -46,10 +46,6 @@ Source repository: <https://github.com/Xiaokang2022/Xiaokang2022>
     <img width="700" src="https://wakatime.com/share/@Xiaokang2022/9e225507-6273-4967-b1c9-409f043a94a5.svg" />
 </p>
 <p align="center">
-    <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Xiaokang2022&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
-</p>
-<p align="center">
     <!-- https://github.com/ryo-ma/github-profile-trophy -->
     <!-- rules: https://github.com/ryo-ma/github-profile-trophy/blob/master/src/trophy.ts -->
     <img width="800" src="https://github-profile-trophy.vercel.app/?username=Xiaokang2022&no-bg=true&no-frame=true&theme=algolia&title=-MultiLanguage" />
